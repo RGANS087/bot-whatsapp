@@ -2798,7 +2798,7 @@ break
           if (isCmd) {      
           menu = monospace(`Maaf kak ${pushname}_<\nCommand ${command} Tidak tersedia di list menu!!\nMohon cek kembali list menu nya kak`)
           but = [{ buttonId: `!menu`, buttonText: { displayText: 'MENU' }, type: 1 }]
-          sendButton(from, menu, 'Created By ZTakeda', but, mek)
+          sendButton(from, menu, 'Created By RGANS', but, mek)
           break
           }
               
